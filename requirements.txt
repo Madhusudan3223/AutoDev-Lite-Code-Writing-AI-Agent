@@ -1,0 +1,4 @@
+streamlit
+openai
+crewai==0.14.4
+crewai-tools==0.1.1
