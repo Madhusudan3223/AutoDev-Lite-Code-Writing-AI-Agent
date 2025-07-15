@@ -6,7 +6,7 @@ AutoDev Lite is an interactive AI assistant that breaks down, writes, and tests 
 
 ## 🚀 Features
 
-- 🧠 Accepts natural language coding tasks (e.g., *"Check if a number is even or odd"*)
+- 🧠 Accepts natural language coding tasks
 - 📋 Breaks the task into clear steps using a **Planner Agent**
 - 💻 Writes Python code using a **Code Writer Agent**
 - ✅ Tests the code with output or errors using a **Code Tester Agent**
@@ -31,7 +31,8 @@ AutoDev Lite is an interactive AI assistant that breaks down, writes, and tests 
 - LangChain 🧩
 - Ngrok 🌍 (for public access from Colab)
 - Google Colab (development)
-- 
+
+  
 🔗 Live App (Ngrok)
 Note: This runs from Google Colab using Ngrok. Launch your notebook and get a temporary public URL like:
 
@@ -40,8 +41,12 @@ Copy
 Edit
 https://0eb60f3b0c8b.ngrok-free.app
 
+---
+
 📄 License
 MIT License – free to use, modify, and showcase in portfolios or resumes.
+
+---
 🙌 Author
 Madhusudan Mandal
 📧 madhumandal49@gmail.com
