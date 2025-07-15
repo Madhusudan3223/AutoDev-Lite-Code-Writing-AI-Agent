@@ -48,9 +48,9 @@ MIT License – free to use, modify, and showcase in portfolios or resumes.
 
 ---
 🙌 Author
-Madhusudan Mandal
-📧 madhumandal49@gmail.com
-+91 9304190347
+-Madhusudan Mandal
+-📧 madhumandal49@gmail.com
+-+91 9304190347
 📎 GitHub
 
 
