@@ -15,7 +15,7 @@ AutoDev Lite is a lightweight AI-powered code generation and testing assistant b
 
 ## 📷 App Preview
 
-![AutoDev Screenshot](https://i.postimg.cc/BbC3nbxL/autodev-lite-demo.png)
+![AutoDev Screenshot](Screenshot 1.PNG)
 
 ---
 
