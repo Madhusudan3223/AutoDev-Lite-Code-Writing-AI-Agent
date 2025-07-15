@@ -10,7 +10,7 @@ AutoDev Lite is an interactive AI assistant that breaks down, writes, and tests 
 - 📋 Breaks the task into clear steps using a **Planner Agent**
 - 💻 Writes Python code using a **Code Writer Agent**
 - ✅ Tests the code with output or errors using a **Code Tester Agent**
-- 🌐 Runs in a browser using Streamlit and Ngrok (no deployment needed!)
+- 🌐 Runs in a browser using Streamlit and Ngrok 
 
 ---
 
