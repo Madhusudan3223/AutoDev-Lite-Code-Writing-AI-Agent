@@ -1,0 +1,4 @@
+streamlit
+crewai==0.30.11
+langchain
+openai
