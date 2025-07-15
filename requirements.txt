@@ -1,4 +1,0 @@
-streamlit
-crewai==0.22.8
-langchain
-openai
