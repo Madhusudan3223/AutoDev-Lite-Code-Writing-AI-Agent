@@ -1,3 +1,0 @@
-streamlit
-openai
-crewai==0.14.4
