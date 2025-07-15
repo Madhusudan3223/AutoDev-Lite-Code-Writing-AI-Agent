@@ -1,50 +1,33 @@
-# 🤖 AutoDev Lite: AI Code Writing Agent
+# 🤖 AutoDev Lite: Code Writing AI Agent
 
-AutoDev Lite is a lightweight AI-powered code generation and testing assistant built with [CrewAI](https://docs.crewai.com/), [LangChain](https://www.langchain.com/), and [Streamlit](https://streamlit.io/). It allows users to enter a coding task and see how three AI agents (Planner, Coder, and Tester) collaborate to generate, execute, and verify Python code.
-
----
-
-## 🎯 Features
-
-- 🧠 **Task Planner Agent**: Breaks down your coding prompt into actionable steps.
-- 💻 **Code Writer Agent**: Generates clean Python code based on the plan.
-- 🧪 **Code Tester Agent**: Executes the code and returns output or error tracebacks.
-- 📦 Powered by [CrewAI](https://docs.crewai.com/) multi-agent workflow.
+AutoDev Lite is an interactive AI assistant that breaks down, writes, and tests Python code based on user input. Built with [CrewAI](https://docs.crewai.com), [Streamlit](https://streamlit.io), and LangChain tools, this lightweight AI code assistant showcases multi-agent collaboration in real-time.
 
 ---
 
-## 📷 App Preview
+## 🚀 Features
 
-![AutoDev Screenshot](https://github.com/Madhusudan3223/AutoDev-Lite-Code-Writing-AI-Agent/blob/main/Screenshot%201.PNG)
+- 🧠 Accepts natural language coding tasks (e.g., *"Check if a number is even or odd"*)
+- 📋 Breaks the task into clear steps using a **Planner Agent**
+- 💻 Writes Python code using a **Code Writer Agent**
+- ✅ Tests the code with output or errors using a **Code Tester Agent**
+- 🌐 Runs in a browser using Streamlit and Ngrok (no deployment needed!)
+
+---
+
+## 📸 Screenshots
+
+### 🧠 Task Input
+### ⚙️ Code Planning & Writing
+### ✅ Final Output
+![Task Input Screenshot](screenshot1.png)
 
 ---
 
-## 🔗 Live App (Ngrok Tunnel from Google Colab)
+## 🛠 Tech Stack
 
-> ✅ This temporary link 
-
-🔗 [https://0eb60f3b0c8b.ngrok-free.app/](https://0eb60f3b0c8b.ngrok-free.app/)
-
-
----
-🧠 Tech Stack
-Python 3.10+
-
-Streamlit
-
-CrewAI
-
-LangChain
-
-Ngrok
-
-Google Colab
-
-📄 License
-This project is released under the MIT License.
-
-🙋‍♂️ Author
-Madhusudan Mandal
-📧 madhumandal49@gmail.com
-📱 +91-9304190347
-
+- Python 🐍
+- Streamlit 📊
+- CrewAI 🤖
+- LangChain 🧩
+- Ngrok 🌍 (for public access from Colab)
+- Google Colab (development)
