@@ -21,7 +21,7 @@ AutoDev Lite is a lightweight AI-powered code generation and testing assistant b
 
 ## 🔗 Live App (Ngrok Tunnel from Google Colab)
 
-> ✅ This temporary link is generated each time the notebook is run in Colab:
+> ✅ This temporary link 
 
 🔗 [https://0eb60f3b0c8b.ngrok-free.app/](https://0eb60f3b0c8b.ngrok-free.app/)
 
